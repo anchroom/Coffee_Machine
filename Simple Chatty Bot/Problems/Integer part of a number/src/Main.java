@@ -4,6 +4,8 @@ public class Main {
 
     public static int extractInt(double d) {
         // write your code here
+        int number = (int) d;
+        return number;
     }
 
     /* Do not change code below */
