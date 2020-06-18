@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Account/Problems-Account.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Account/Problems-Account.iml" group="Text_Editor/Problems-Account" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Account/Problems-Account_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Account/Problems-Account_main.iml" group="Text_Editor/Problems-Account" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Account/Problems-Account_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Account/Problems-Account_test.iml" group="Text_Editor/Problems-Account" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Problems-Getting_the_fullname.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Problems-Getting_the_fullname.iml" group="Text_Editor/Problems-Getting_the_fullname" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Problems-Getting_the_fullname_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Problems-Getting_the_fullname_main.iml" group="Text_Editor/Problems-Getting_the_fullname" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Problems-Getting_the_fullname_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Problems-Getting_the_fullname_test.iml" group="Text_Editor/Problems-Getting_the_fullname" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Queens/Problems-Queens.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Problems-Queens.iml" group="Text_Editor/Problems-Queens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Queens/Problems-Queens_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Problems-Queens_main.iml" group="Text_Editor/Problems-Queens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Queens/Problems-Queens_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Problems-Queens_test.iml" group="Text_Editor/Problems-Queens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Text_Editor.iml" filepath="$PROJECT_DIR$/.idea/modules/Text_Editor.iml" group="Text_Editor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Text_Editor/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Text_Editor/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Text_Editor/util" />
+    </modules>
+  </component>
+</project>
